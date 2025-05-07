@@ -47,5 +47,5 @@
 ### Preview:
 
 <p align="center">
-	<img src="../../assets/Frappé.webp"/>
+	<img src="../../assets/frappe.webp"/>
 </p>

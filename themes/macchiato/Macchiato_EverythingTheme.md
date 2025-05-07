@@ -46,5 +46,5 @@
 ### Preview:
 
 <p align="center">
-	<img src="../../assets/Macchiato.webp"/>
+	<img src="../../assets/macchiato.webp"/>
 </p>

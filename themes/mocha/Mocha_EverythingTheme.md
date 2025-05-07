@@ -47,5 +47,5 @@
 ### Preview:
 
 <p align="center">
-	<img src="../../assets/Mocha.webp"/>
+	<img src="../../assets/mocha.webp"/>
 </p>

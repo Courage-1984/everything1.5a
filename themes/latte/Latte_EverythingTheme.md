@@ -46,5 +46,5 @@
 ### Preview:
 
 <p align="center">
-	<img src="../../assets/Latte.webp"/>
+	<img src="../../assets/latte.webp"/>
 </p>
