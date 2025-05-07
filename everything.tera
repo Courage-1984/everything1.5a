@@ -3,7 +3,7 @@ whiskers:
   version: "^2.5.1"
   matrix:
     - flavor
-  filename: "../themes/{{flavor.identifier}}/{{flavor.name}}_EverythingTheme.md"
+  filename: "themes/{{flavor.identifier}}/{{flavor.name}}_EverythingTheme.md"
 ---
 ## Catppuccin {{flavor.emoji}} {{flavor.name}}
 
