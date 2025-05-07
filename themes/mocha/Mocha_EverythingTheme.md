@@ -8,6 +8,7 @@
 ```
 
 ### Foreground, Background & Accent Colors
+
 <table>
 	<tr>
 		<th></th>
@@ -18,7 +19,7 @@
 		<th>HSL</th>
 	</tr>
 	<tr>
-		<td><img src="../../assets/mocha/mocha_text.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/ov6b2jxy.png" width="23"/></td>
 		<td>Text</td>
 		<td>Foreground</td>
 		<td><code>#cdd6f4</code></td>
@@ -26,7 +27,7 @@
 		<td><code>hsl(226, 64%, 88%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="../../assets/mocha/mocha_base.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/kcff1mr7.png" width="23"/></td>
 		<td>Base</td>
 		<td>Background</td>
 		<td><code>#1e1e2e</code></td>
@@ -34,7 +35,7 @@
 		<td><code>hsl(240, 21%, 15%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="../../assets/mocha/mocha_blue.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/esmefh0.png" width="23"/></td>
 		<td>Blue</td>
 		<td>Accent</td>
 		<td><code>#89b4fa</code></td>

@@ -18,7 +18,7 @@
 		<th>HSL</th>
 	</tr>
 	<tr>
-		<td><img src="../../assets/latte/latte_text.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/1t21qz6.png" width="23"/></td>
 		<td>Text</td>
 		<td>Foreground</td>
 		<td><code>#4c4f69</code></td>
@@ -26,7 +26,7 @@
 		<td><code>hsl(234, 16%, 36%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="../../assets/latte/latte_base.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/9q3xb6ha.png" width="23"/></td>
 		<td>Base</td>
 		<td>Background</td>
 		<td><code>#eff1f5</code></td>
@@ -34,7 +34,7 @@
 		<td><code>hsl(220, 23%, 95%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="../../assets/latte/latte_blue.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/i8xawf07.png" width="23"/></td>
 		<td>Blue</td>
 		<td>Accent</td>
 		<td><code>#1e66f5</code></td>

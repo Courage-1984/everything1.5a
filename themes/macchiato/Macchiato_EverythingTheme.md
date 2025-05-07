@@ -18,7 +18,7 @@
 		<th>HSL</th>
 	</tr>
 	<tr>
-		<td><img src="../../assets/macchiato/macchiato_text.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/yllwd6vt.png" width="23"/></td>
 		<td>Text</td>
 		<td>Foreground</td>
 		<td><code>#cad3f5</code></td>
@@ -26,7 +26,7 @@
 		<td><code>hsl(227, 68%, 88%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="../../assets/macchiato/macchiato_base.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/lw72t1h6.png" width="23"/></td>
 		<td>Base</td>
 		<td>Background</td>
 		<td><code>#24273a</code></td>
@@ -34,7 +34,7 @@
 		<td><code>hsl(232, 24%, 18%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="../../assets/macchiato/macchiato_blue.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/oiqfhh3e.png" width="23"/></td>
 		<td>Blue</td>
 		<td>Accent</td>
 		<td><code>#8aadf4</code></td>

@@ -8,6 +8,7 @@
 ```
 
 ### Foreground, Background & Accent Colors
+
 <table>
 	<tr>
 		<th></th>
@@ -18,7 +19,7 @@
 		<th>HSL</th>
 	</tr>
 	<tr>
-		<td><img src="../../assets/frappe/frappe_text.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/20k58s53.png" width="23"/></td>
 		<td>Text</td>
 		<td>Foreground</td>
 		<td><code>#c6d0f5</code></td>
@@ -26,7 +27,7 @@
 		<td><code>hsl(227, 70%, 87%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="../../assets/frappe/frappe_base.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/ssma2tu4.png" width="23"/></td>
 		<td>Base</td>
 		<td>Background</td>
 		<td><code>#303446</code></td>
@@ -34,7 +35,7 @@
 		<td><code>hsl(229, 19%, 23%)</code></td>
 	</tr>
 	<tr>
-		<td><img src="../../assets/frappe/frappe_blue.png" width="23"/></td>
+		<td><img src="https://pomf2.lain.la/f/8r4vtor4.png" width="23"/></td>
 		<td>Blue</td>
 		<td>Accent</td>
 		<td><code>#8caaee</code></td>
